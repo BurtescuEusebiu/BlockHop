@@ -73,7 +73,7 @@ public class Level2 implements Level {
         spikes.add(new Spike(890, 20, 32, 32, spikeTexture));
 
         spikes.add(new Spike(1122, 20, 32, 32, spikeTexture));
-        spikes.add(new Spike(1154, 20, 32, 32, spikeTexture));
+        //spikes.add(new Spike(1154, 20, 32, 32, spikeTexture));
         spikes.add(new Spike(1186, 20, 32, 32, spikeTexture));
 
         end = new End(1220,190,64,64);
