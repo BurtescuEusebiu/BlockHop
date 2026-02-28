@@ -8,7 +8,7 @@ public class LevelManager {
     private int currentLevelNumber;
 
     public LevelManager() {
-        currentLevelNumber = 5;
+        currentLevelNumber = 1;
         loadCurrentLevel();
     }
 
